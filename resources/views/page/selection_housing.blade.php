@@ -1,5 +1,63 @@
 @include('header')
 <style>
+    
+</style>
+
+<div class="row">
+    <div class="col-lg-1 col-md-1 col-sm-12 col-xs-12">
+        <a href="">
+            <i class="fa fa-home" aria-hidden="true"></i>
+        </a>    
+    </div>
+    <div class="col-lg-9 col-md-9 col-sm-12 col-xs-12">
+        <ul>
+            <li>
+                <a href="">О курорте</a>
+            </li>
+            <li>
+                <a href="">Как добраться</a>
+            </li>
+            <li>
+                <a href="">Поиск жилья</a>
+            </li>
+            <li>
+                <a href="">Активный отдых</a>
+            </li>
+            <li>
+                <a href="">Пассивный отыдх</a>
+            </li>            
+            <li>
+                <a href="">Где поесть</a>
+            </li>
+            <li>
+                <a href="">Подьемники</a>
+            </li>  
+        </ul>
+    </div>
+    <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
+        <a>
+            <i class="fa fa-user-circle" aria-hidden="true"></i>
+        </a>    
+    </div>    
+    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        Главная / Подбор жилья
+    </div>    
+</div>        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
     .selection-housing {
         
     }
