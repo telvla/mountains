@@ -1,49 +1,73 @@
 @include('header')
 <style>
+    header {
+        margin: 30px 0px 30px 0px;
+    }
     
+    .top-logo {
+        font-size: 24px;
+        color: #000;
+    }
+    
+    .top-menu {
+        margin: 7px 0px 0px 0px;
+    }
+    
+    .top-menu li {
+        float: left;
+        display: inline;
+        margin: 0px 30px 0px 0px;
+    }
+    
+    .top-menu li a {
+        color: #000; 
+        font-size: 16px;
+    }
 </style>
 
-<div class="row">
-    <div class="col-lg-1 col-md-1 col-sm-12 col-xs-12">
-        <a href="">
-            <i class="fa fa-home" aria-hidden="true"></i>
-        </a>    
-    </div>
-    <div class="col-lg-9 col-md-9 col-sm-12 col-xs-12">
-        <ul>
-            <li>
-                <a href="">О курорте</a>
-            </li>
-            <li>
-                <a href="">Как добраться</a>
-            </li>
-            <li>
-                <a href="">Поиск жилья</a>
-            </li>
-            <li>
-                <a href="">Активный отдых</a>
-            </li>
-            <li>
-                <a href="">Пассивный отыдх</a>
-            </li>            
-            <li>
-                <a href="">Где поесть</a>
-            </li>
-            <li>
-                <a href="">Подьемники</a>
-            </li>  
-        </ul>
-    </div>
-    <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
-        <a>
-            <i class="fa fa-user-circle" aria-hidden="true"></i>
-        </a>    
-    </div>    
-    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-        Главная / Подбор жилья
-    </div>    
-</div>        
-
+<header>
+    <div class="row">
+        <div class="col-lg-1 col-md-1 col-sm-12 col-xs-12 text-center">
+            <a href="" class="top-logo">
+                <i class="fa fa-home" aria-hidden="true"></i>
+            </a>    
+        </div>
+        <div class="col-lg-9 col-md-9 col-sm-12 col-xs-12">
+            <ul class="top-menu">
+                <li>
+                    <a href="">О курорте</a>
+                </li>
+                <li>
+                    <a href="">Как добраться</a>
+                </li>
+                <li>
+                    <a href="">Поиск жилья</a>
+                </li>
+                <li>
+                    <a href="">Активный отдых</a>
+                </li>
+                <li>
+                    <a href="">Пассивный отыдх</a>
+                </li>            
+                <li>
+                    <a href="">Где поесть</a>
+                </li>
+                <li>
+                    <a href="">Подьемники</a>
+                </li>  
+            </ul>
+        </div>
+        <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
+            <a>
+                <i class="fa fa-user-circle" aria-hidden="true"></i>
+                Екатерина Иванова
+            </a>    
+        </div>    
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            Главная / Подбор жилья
+        </div>    
+    </div>        
+</header>
 
 
 
