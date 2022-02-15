@@ -227,9 +227,176 @@
         </div>            
     </div>
     <div class="col-lg-8 col-md-4 col-sm-12 col-xs-12">
-        1
+        <div>
+            
+        </div>    
     </div>
 </div>
+<div class="row wr-item-sel-hous">
+    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+        <div>
+            <img class="item-sel-hous-img" src="https://www.usualhouse.com/wp-content/uploads/2020/01/interesting-snowy-house.jpg" />
+        </div>
+         <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                <div class="hotel-rating-count">
+                    9.7
+                </div>
+                <div class="hotel-rating-info">
+                    <p class="title">Идеально</p>
+                    <p class="reviews">84 отзыва</p>
+                </div>    
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 text-right">
+                <span>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>                    
+                </span>
+                <span class="type-housing">
+                    Гостиница
+                </span>
+            </div>             
+        </div> 
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <h2>Ламинарно-потоковые шкафы</h2>    
+                <p class="info">Ламинарно-потоковые шкафы II класса защиты обеспечивают надежную защиту оператора, рабочей зоны и окружающей среды при работе</p>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 item-sel-hous-bot">
+                <p>сутки от</p>
+            </div>
+            <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12 item-sel-hous-bot text-left">
+                <p>
+                    <s><span class="old-price">4 700 <i class="fa fa-rub" aria-hidden="true"></span></i></s>
+                    <span class="current-price">3 750 <i class="fa fa-rub" aria-hidden="true"></span></i>
+                </p>
+            </div>            
+            <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12 item-sel-hous-bot text-right">
+                <div class="item-btn-more">
+                    <i class="fa fa-angle-right" aria-hidden="true"></i>
+                </div>    
+            </div>
+        </div>            
+    </div>
+    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+        <div>
+            <img class="item-sel-hous-img" src="https://www.usualhouse.com/wp-content/uploads/2020/01/interesting-snowy-house.jpg" />
+        </div>
+         <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                <div class="hotel-rating-count">
+                    9.7
+                </div>
+                <div class="hotel-rating-info">
+                    <p class="title">Идеально</p>
+                    <p class="reviews">84 отзыва</p>
+                </div>    
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 text-right">
+                <span>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>                    
+                </span>
+                <span class="type-housing">
+                    Гостиница
+                </span>
+            </div>             
+        </div> 
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <h2>Ламинарно-потоковые шкафы</h2>    
+                <p class="info">Ламинарно-потоковые шкафы II класса защиты обеспечивают надежную защиту оператора, рабочей зоны и окружающей среды при работе</p>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 item-sel-hous-bot">
+                <p>сутки от</p>
+            </div>
+            <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12 item-sel-hous-bot text-left">
+                <p>
+                    <s><span class="old-price">4 700 <i class="fa fa-rub" aria-hidden="true"></span></i></s>
+                    <span class="current-price">3 750 <i class="fa fa-rub" aria-hidden="true"></span></i>
+                </p>
+            </div>            
+            <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12 item-sel-hous-bot text-right">
+                <div class="item-btn-more">
+                    <i class="fa fa-angle-right" aria-hidden="true"></i>
+                </div>    
+            </div>
+        </div>            
+    </div>
+    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+        <div>
+            <img class="item-sel-hous-img" src="https://www.usualhouse.com/wp-content/uploads/2020/01/interesting-snowy-house.jpg" />
+        </div>
+         <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                <div class="hotel-rating-count">
+                    9.7
+                </div>
+                <div class="hotel-rating-info">
+                    <p class="title">Идеально</p>
+                    <p class="reviews">84 отзыва</p>
+                </div>    
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 text-right">
+                <span>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>                    
+                </span>
+                <span class="type-housing">
+                    Гостиница
+                </span>
+            </div>             
+        </div> 
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <h2>Ламинарно-потоковые шкафы</h2>    
+                <p class="info">Ламинарно-потоковые шкафы II класса защиты обеспечивают надежную защиту оператора, рабочей зоны и окружающей среды при работе</p>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 item-sel-hous-bot">
+                <p>сутки от</p>
+            </div>
+            <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12 item-sel-hous-bot text-left">
+                <p>
+                    <s><span class="old-price">4 700 <i class="fa fa-rub" aria-hidden="true"></span></i></s>
+                    <span class="current-price">3 750 <i class="fa fa-rub" aria-hidden="true"></span></i>
+                </p>
+            </div>            
+            <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12 item-sel-hous-bot text-right">
+                <div class="item-btn-more">
+                    <i class="fa fa-angle-right" aria-hidden="true"></i>
+                </div>    
+            </div>
+        </div>            
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
+        <botton>Выбрать экскурсию</botton>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div class="container">
     <div class="row">
         <div class="col-lg-4 col-md-4 col-sm-10 col-xs-12">
