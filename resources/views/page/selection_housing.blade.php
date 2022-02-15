@@ -68,6 +68,12 @@
         </div>    
     </div>        
 </header>
+<div class="row">
+    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 selection-housing-filtr">
+        фильтр
+    </div>    
+</div>        
+
 
 
 
@@ -82,6 +88,11 @@
 
 
 <style>
+    .selection-housing-filtr {
+        margin: 50px 0px 50px 0px;
+        background-color: #ccc;
+    }
+    
     .selection-housing {
         
     }
@@ -118,12 +129,58 @@
         font-size: 16px;
         margin: 50px 0px 15px 0px;        
     }    
+    
+    .item-sel-hous-img {
+        width: 100%;
+        margin: 0px 0px 15px 0px;
+    }
+    
+    .wr-item-sel-hous {
+        margin: 0px 0px 25px 0px;
+    }
+    
+    .wr-item-sel-hous h2 {
+        font-size: 19px;
+    }
+    
+    .wr-item-sel-hous .info {
+        font-size: 14px;
+    }
+    
+    .item-sel-hous-bot {
+        margin: 15px 0px 0px 0px
+    }
+    
+    .old-price {
+        font-size: 18px;
+        margin: 2px 10px 0px 0px;
+        display: block;
+        float: left;
+    }
+    
+    .current-price {
+        font-size: 24px;
+        margin: -8px 0px 0px 0px;
+        display: block;
+    }
+    
+    .item-btn-more {
+        background: #717070;
+        display: block;
+        padding: 0px 9px 0px 0px;
+        color: #fff;
+        font-weight: bold; 
+        font-size: 25px;
+        width: 30px;
+        height: 30px;
+        margin: -15px 0px 0px 35px
+    }
 </style>
 
-<div class="row">
+<div class="row wr-item-sel-hous">
     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
         <div>
-            <img src="/img/img_products/bd_lsr_fortessa.png" width="100%" />
+            <img class="item-sel-hous-img" src="https://www.usualhouse.com/wp-content/uploads/2020/01/interesting-snowy-house.jpg" />
         </div>
          <div class="row">
             <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
@@ -147,26 +204,27 @@
                     Гостиница
                 </span>
             </div>             
-        </div>        
-        <h2>Ламинарно-потоковые шкафы</h2>    
-        <p>Ламинарно-потоковые шкафы II класса защиты обеспечивают надежную защиту оператора, рабочей зоны и окружающей среды при работе</p>
+        </div> 
         <div class="row">
-            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <h2>Ламинарно-потоковые шкафы</h2>    
+                <p class="info">Ламинарно-потоковые шкафы II класса защиты обеспечивают надежную защиту оператора, рабочей зоны и окружающей среды при работе</p>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 item-sel-hous-bot">
                 <p>сутки от</p>
             </div>
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+            <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12 item-sel-hous-bot text-left">
                 <p>
-                    <span>4 700</span><i class="fa fa-rub" aria-hidden="true"></i>
-                    <span>3 750</span><i class="fa fa-rub" aria-hidden="true"></i>
+                    <s><span class="old-price">4 700 <i class="fa fa-rub" aria-hidden="true"></span></i></s>
+                    <span class="current-price">3 750 <i class="fa fa-rub" aria-hidden="true"></span></i>
                 </p>
             </div>            
-            <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
-                <div>
+            <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12 item-sel-hous-bot text-right">
+                <div class="item-btn-more">
                     <i class="fa fa-angle-right" aria-hidden="true"></i>
                 </div>    
             </div>
-        </div>    
-    
+        </div>            
     </div>
     <div class="col-lg-8 col-md-4 col-sm-12 col-xs-12">
         1
