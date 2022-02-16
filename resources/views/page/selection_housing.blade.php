@@ -226,9 +226,69 @@
             </div>
         </div>            
     </div>
+    
+    <style>
+        .wr-item-big-sel-hous {
+            background: url('http://images6.fanpop.com/image/photos/40900000/Colorado-united-states-of-america-40962952-1024-682.jpg') 100% 100% no-repeat;
+            background-size: auto;
+            background-size: cover;
+            height: 500px;
+       
+        }
+        
+        .wr-item-big-sel-hous .grey {
+            background-color: rgba(162, 163, 164, 0.7);
+            width: 100%;
+            height: 500px;
+        }
+        
+        .grey .row {
+            width: 480px;
+            padding: 220px 0px 0px 40px;
+            color: #fff;
+        }
+        
+        .grey h2 {
+            font-weight: bold;
+            font-size: 21px;
+        }   
+    </style>
+        
     <div class="col-lg-8 col-md-4 col-sm-12 col-xs-12">
-        <div>
-            
+        <div class="wr-item-big-sel-hous">
+            <div class="grey">
+                <div class="row">
+                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                        <div class="hotel-rating-count">
+                            9.7
+                        </div>
+                        <div class="hotel-rating-info">
+                            <p class="title">Идеально</p>
+                            <p class="reviews">84 отзыва</p>
+                        </div>    
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 text-right">
+                        <span>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>                    
+                        </span>
+                        <span class="type-housing">
+                            Гостиница
+                        </span>
+                    </div>
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                        <h2>Ламинарно-потоковые шкафы</h2>    
+                        <p class="info">Ламинарно-потоковые шкафы II класса защиты обеспечивают надежную защиту оператора, рабочей зоны и окружающей среды при работе</p>                        
+                        <br />
+                        <p>
+                            <span class="current-price">3 750 <i class="fa fa-rub" aria-hidden="true"></span></i>
+                        </p>
+                    </div>    
+                </div>  
+            </div>    
         </div>    
     </div>
 </div>
