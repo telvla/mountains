@@ -233,7 +233,6 @@
             background-size: auto;
             background-size: cover;
             height: 500px;
-       
         }
         
         .wr-item-big-sel-hous .grey {
@@ -438,10 +437,29 @@
         </div>            
     </div>
 </div>
-<div class="row">
-    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
-        <botton>Выбрать экскурсию</botton>
-    </div>
+
+<style>
+    .wr-select-excursions {
+        background: url('https://million-wallpapers.ru/wallpapers/2/9/434034035674145/ch-rno-belyj-fon-s-gorami.jpg') 100% 50% no-repeat;
+        background-size: auto;
+        background-size: cover;
+        height: 300px; 
+        margin: 25px 0px 40px 0px;
+        text-align: center;
+        padding: 200px 0px 0px 0px;
+    }
+    
+    .wr-select-excursions botton {
+        background-color: #8e8888;
+        border: solid 2px #8e8888;
+        color: #fff;
+        padding: 8px 25px 6px 25px;
+        font-size: 16px;        
+    }
+</style>
+
+<div class="wr-select-excursions">
+    <botton>Выбрать экскурсию</botton>
 </div>
 
 
