@@ -123,8 +123,8 @@
     .selection-housing-btn {
         display: inline;
         background-color: #fff;
-        border: solid 2px #ccc;
-        color: #ccc;
+        border: solid 2px #8e8888;
+        color: #8e8888;
         padding: 9px 25px 9px 25px;
         font-size: 16px;
         margin: 50px 0px 15px 0px;        
@@ -173,7 +173,7 @@
         font-size: 25px;
         width: 30px;
         height: 30px;
-        margin: -15px 0px 0px 35px
+        margin: -15px 0px 0px 28px
     }
 </style>
 
@@ -447,30 +447,356 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-<div class="container">
-    <div class="row">
-        <div class="col-lg-4 col-md-4 col-sm-10 col-xs-12">
-            <h3>Ламинарно-потоковые</h3>
-            <p>
-                Ламинарно-потоковые шкафы II класса защиты работают по принципу рециркуляции: воздух поступает в рабочую зону через приоткрытое защитное стекло и засасывается под столешницу, создавая надежную воздушную завесу и обеспечивая защиту оператора от инфекционных материалов. После очистки НЕPA фильтрами воздух равномерным вертикальным потоком опускается внутри рабочей зоны, создавая стерильные условия, и удаляется в воздуховод через отверстия в поверхности столешницы.
-            </p>
-            <p>    
-                Большая часть воздуха (70%) проходит через основной фильтр и поступает обратно в рабочую зону, осуществляя рециркуляцию. 30% воздуха проходит через выходной НЕPA фильтр и выбрасывается в помещение. Эффективность фильтрации составляет 99,9995% для частиц размером 0,3 мкм (класс чистоты ISO 5).
-            </p>
-            <center>
-                <botton class="selection-housing-btn">Узнать больше</botton>
-            </center>    
+<style>
+    .wr-sale-selection-housing {
+        background-color: #8e8888;
+        color: #fff;
+        padding: 50px;
+        margin: 0px 0px 25px 0px;
+    }
+    
+    .wr-sale-selection-housing .title {
+        font-size: 45px;
+        font-weight: bold;
+    }
+    
+    .wr-sale-selection-housing .name-hotel {
+        margin: -20px 0px 0px 0px;
+    }
+    
+    .wr-sale-selection-housing .sale {
+        margin: 0px 0px 20px 0px;
+        font-size: 20px;
+        font-weight: bold;        
+        display: block;        
+    }
+    
+    .wr-sale-selection-housing botton {
+        background-color: #8e8888;
+        border: solid 2px #fff;
+        color: #fff;
+        padding: 8px 25px 6px 25px;
+        font-size: 16px;
+    }
+</style>
+    
+<div class="row">
+    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+        <div>
+            <img class="item-sel-hous-img" src="https://www.usualhouse.com/wp-content/uploads/2020/01/interesting-snowy-house.jpg" />
+        </div>
+         <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                <div class="hotel-rating-count">
+                    9.7
+                </div>
+                <div class="hotel-rating-info">
+                    <p class="title">Идеально</p>
+                    <p class="reviews">84 отзыва</p>
+                </div>    
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 text-right">
+                <span>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>                    
+                </span>
+                <span class="type-housing">
+                    Гостиница
+                </span>
+            </div>             
+        </div> 
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <h2>Ламинарно-потоковые шкафы</h2>    
+                <p class="info">Ламинарно-потоковые шкафы II класса защиты обеспечивают надежную защиту оператора, рабочей зоны и окружающей среды при работе</p>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 item-sel-hous-bot">
+                <p>сутки от</p>
+            </div>
+            <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12 item-sel-hous-bot text-left">
+                <p>
+                    <s><span class="old-price">4 700 <i class="fa fa-rub" aria-hidden="true"></span></i></s>
+                    <span class="current-price">3 750 <i class="fa fa-rub" aria-hidden="true"></span></i>
+                </p>
+            </div>            
+            <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12 item-sel-hous-bot text-right">
+                <div class="item-btn-more">
+                    <i class="fa fa-angle-right" aria-hidden="true"></i>
+                </div>    
+            </div>
+        </div>
+        <div>
+            <img class="item-sel-hous-img" src="https://www.usualhouse.com/wp-content/uploads/2020/01/interesting-snowy-house.jpg" />
+        </div>
+         <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                <div class="hotel-rating-count">
+                    9.7
+                </div>
+                <div class="hotel-rating-info">
+                    <p class="title">Идеально</p>
+                    <p class="reviews">84 отзыва</p>
+                </div>    
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 text-right">
+                <span>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>                    
+                </span>
+                <span class="type-housing">
+                    Гостиница
+                </span>
+            </div>             
+        </div> 
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <h2>Ламинарно-потоковые шкафы</h2>    
+                <p class="info">Ламинарно-потоковые шкафы II класса защиты обеспечивают надежную защиту оператора, рабочей зоны и окружающей среды при работе</p>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 item-sel-hous-bot">
+                <p>сутки от</p>
+            </div>
+            <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12 item-sel-hous-bot text-left">
+                <p>
+                    <s><span class="old-price">4 700 <i class="fa fa-rub" aria-hidden="true"></span></i></s>
+                    <span class="current-price">3 750 <i class="fa fa-rub" aria-hidden="true"></span></i>
+                </p>
+            </div>            
+            <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12 item-sel-hous-bot text-right">
+                <div class="item-btn-more">
+                    <i class="fa fa-angle-right" aria-hidden="true"></i>
+                </div>    
+            </div>
+        </div>        
+    </div>
+    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+        <div class="wr-sale-selection-housing text-center">
+            <p class="title">Акция</p>
+            <p class="name-hotel">Отель "Вершина"</p>
+            <p class="sale">-20% на любой номер</p>
+            <botton>Выбрать номер</botton>
+        </div>
+        
+        <div>
+            <img class="item-sel-hous-img" src="https://www.usualhouse.com/wp-content/uploads/2020/01/interesting-snowy-house.jpg" />
+        </div>
+         <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                <div class="hotel-rating-count">
+                    9.7
+                </div>
+                <div class="hotel-rating-info">
+                    <p class="title">Идеально</p>
+                    <p class="reviews">84 отзыва</p>
+                </div>    
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 text-right">
+                <span>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>                    
+                </span>
+                <span class="type-housing">
+                    Гостиница
+                </span>
+            </div>             
+        </div> 
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <h2>Ламинарно-потоковые шкафы</h2>    
+                <p class="info">Ламинарно-потоковые шкафы II класса защиты обеспечивают надежную защиту оператора, рабочей зоны и окружающей среды при работе</p>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 item-sel-hous-bot">
+                <p>сутки от</p>
+            </div>
+            <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12 item-sel-hous-bot text-left">
+                <p>
+                    <s><span class="old-price">4 700 <i class="fa fa-rub" aria-hidden="true"></span></i></s>
+                    <span class="current-price">3 750 <i class="fa fa-rub" aria-hidden="true"></span></i>
+                </p>
+            </div>            
+            <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12 item-sel-hous-bot text-right">
+                <div class="item-btn-more">
+                    <i class="fa fa-angle-right" aria-hidden="true"></i>
+                </div>    
+            </div>
+        </div>        
+        
+        <div class="wr-sale-selection-housing text-center" style="margin: 25px 0px 0px 0px;">
+            <p class="title">Акция</p>
+            <p class="name-hotel">Отель "Вершина"</p>
+            <p class="sale">-20% на любой номер</p>
+            <botton>Выбрать номер</botton>
         </div>
     </div>
+    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+        <div>
+            <img class="item-sel-hous-img" src="https://www.usualhouse.com/wp-content/uploads/2020/01/interesting-snowy-house.jpg" />
+        </div>
+         <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                <div class="hotel-rating-count">
+                    9.7
+                </div>
+                <div class="hotel-rating-info">
+                    <p class="title">Идеально</p>
+                    <p class="reviews">84 отзыва</p>
+                </div>    
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 text-right">
+                <span>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>                    
+                </span>
+                <span class="type-housing">
+                    Гостиница
+                </span>
+            </div>             
+        </div> 
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <h2>Ламинарно-потоковые шкафы</h2>    
+                <p class="info">Ламинарно-потоковые шкафы II класса защиты обеспечивают надежную защиту оператора, рабочей зоны и окружающей среды при работе</p>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 item-sel-hous-bot">
+                <p>сутки от</p>
+            </div>
+            <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12 item-sel-hous-bot text-left">
+                <p>
+                    <s><span class="old-price">4 700 <i class="fa fa-rub" aria-hidden="true"></span></i></s>
+                    <span class="current-price">3 750 <i class="fa fa-rub" aria-hidden="true"></span></i>
+                </p>
+            </div>            
+            <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12 item-sel-hous-bot text-right">
+                <div class="item-btn-more">
+                    <i class="fa fa-angle-right" aria-hidden="true"></i>
+                </div>    
+            </div>
+        </div>
+        <div>
+            <img class="item-sel-hous-img" src="https://www.usualhouse.com/wp-content/uploads/2020/01/interesting-snowy-house.jpg" />
+        </div>
+         <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                <div class="hotel-rating-count">
+                    9.7
+                </div>
+                <div class="hotel-rating-info">
+                    <p class="title">Идеально</p>
+                    <p class="reviews">84 отзыва</p>
+                </div>    
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 text-right">
+                <span>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>                    
+                </span>
+                <span class="type-housing">
+                    Гостиница
+                </span>
+            </div>             
+        </div> 
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <h2>Ламинарно-потоковые шкафы</h2>    
+                <p class="info">Ламинарно-потоковые шкафы II класса защиты обеспечивают надежную защиту оператора, рабочей зоны и окружающей среды при работе</p>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 item-sel-hous-bot">
+                <p>сутки от</p>
+            </div>
+            <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12 item-sel-hous-bot text-left">
+                <p>
+                    <s><span class="old-price">4 700 <i class="fa fa-rub" aria-hidden="true"></span></i></s>
+                    <span class="current-price">3 750 <i class="fa fa-rub" aria-hidden="true"></span></i>
+                </p>
+            </div>            
+            <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12 item-sel-hous-bot text-right">
+                <div class="item-btn-more">
+                    <i class="fa fa-angle-right" aria-hidden="true"></i>
+                </div>    
+            </div>
+        </div>        
+    </div>    
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+    .wr-box-info {
+        margin: 40px 0px 45px 0px;
+    }
+
+    .wr-box-info h3 {
+        font-weight: bold;
+    }    
+</style>
+
+<div class="row">
+    <div class="col-lg-4 col-md-4 col-sm-10 col-xs-12 wr-box-info">
+        <h3>Ламинарно-потоковые</h3>
+        <p>
+            Ламинарно-потоковые шкафы II класса защиты работают по принципу рециркуляции: воздух поступает в рабочую зону через приоткрытое защитное стекло и засасывается под столешницу, создавая надежную воздушную завесу и обеспечивая защиту оператора от инфекционных материалов. После очистки НЕPA фильтрами воздух равномерным вертикальным потоком опускается внутри рабочей зоны, создавая стерильные условия, и удаляется в воздуховод через отверстия в поверхности столешницы.
+        </p>
+        <p>    
+            Большая часть воздуха (70%) проходит через основной фильтр и поступает обратно в рабочую зону, осуществляя рециркуляцию. 30% воздуха проходит через выходной НЕPA фильтр и выбрасывается в помещение. Эффективность фильтрации составляет 99,9995% для частиц размером 0,3 мкм (класс чистоты ISO 5).
+        </p>
+        <br />
+        <center>
+            <botton class="selection-housing-btn">Узнать больше</botton>
+        </center>
+        <br />
+    </div>
+    <div class="col-lg-4 col-md-4 col-sm-10 col-xs-12 wr-box-info">
+        <h3>Ламинарно-потоковые</h3>
+        <p>
+            Ламинарно-потоковые шкафы II класса защиты работают по принципу рециркуляции: воздух поступает в рабочую зону через приоткрытое защитное стекло и засасывается под столешницу, создавая надежную воздушную завесу и обеспечивая защиту оператора от инфекционных материалов. После очистки НЕPA фильтрами воздух равномерным вертикальным потоком опускается внутри рабочей зоны, создавая стерильные условия, и удаляется в воздуховод через отверстия в поверхности столешницы.
+        </p>
+        <p>    
+            Большая часть воздуха (70%) проходит через основной фильтр и поступает обратно в рабочую зону, осуществляя рециркуляцию. 30% воздуха проходит через выходной НЕPA фильтр и выбрасывается в помещение. Эффективность фильтрации составляет 99,9995% для частиц размером 0,3 мкм (класс чистоты ISO 5).
+        </p>
+        <br />
+        <center>
+            <botton class="selection-housing-btn">Узнать больше</botton>
+        </center>
+        <br />
+    </div>
+    <div class="col-lg-4 col-md-4 col-sm-10 col-xs-12 wr-box-info">
+        <h3>Ламинарно-потоковые</h3>
+        <p>
+            Ламинарно-потоковые шкафы II класса защиты работают по принципу рециркуляции: воздух поступает в рабочую зону через приоткрытое защитное стекло и засасывается под столешницу, создавая надежную воздушную завесу и обеспечивая защиту оператора от инфекционных материалов. После очистки НЕPA фильтрами воздух равномерным вертикальным потоком опускается внутри рабочей зоны, создавая стерильные условия, и удаляется в воздуховод через отверстия в поверхности столешницы.
+        </p>
+        <p>    
+            Большая часть воздуха (70%) проходит через основной фильтр и поступает обратно в рабочую зону, осуществляя рециркуляцию. 30% воздуха проходит через выходной НЕPA фильтр и выбрасывается в помещение. Эффективность фильтрации составляет 99,9995% для частиц размером 0,3 мкм (класс чистоты ISO 5).
+        </p>
+        <br />
+        <center>
+            <botton class="selection-housing-btn">Узнать больше</botton>
+        </center>
+        <br />
+    </div>    
 </div>
 @include('footer')
