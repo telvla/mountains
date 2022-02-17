@@ -38,6 +38,18 @@
         font-size: 13px;
         cursor: pointer;
     }
+    
+    .wr-bread-crumbs {
+        margin: 20px 0px 0px 4.4%;
+    }
+    
+    .bread-crumbs-link {
+        color: #797676;
+    }
+    
+    .bread-crumbs-separator {
+        margin: 0px 5px 0px 5px;
+    }
 </style>
 
 <header>
@@ -79,7 +91,9 @@
             </a>    
         </div>    
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-            Главная / Подбор жилья
+            <div class="wr-bread-crumbs">
+                <a class="bread-crumbs-link" href="">Главная</a> <span class="bread-crumbs-separator">/</span> <a class="bread-crumbs-link" href="">Подбор жилья</a>
+            </div>    
         </div>    
     </div>        
 </header>
