@@ -5,29 +5,44 @@
     }
     
     .top-logo {
-        font-size: 24px;
+        font-size: 32px;
         color: #000;
     }
     
     .top-menu {
-        margin: 7px 0px 0px 0px;
+        margin: 10px 0px 0px 0px;
     }
     
     .top-menu li {
         float: left;
         display: inline;
-        margin: 0px 30px 0px 0px;
+        margin: 0px 45px 0px 0px;
     }
     
     .top-menu li a {
-        color: #000; 
+        color: #797676; 
         font-size: 16px;
+    }
+    
+    header .fa-user-circle {
+        font-size: 27px;
+        color: #797676;
+        float: left;
+        padding-right: 7px;
+        cursor: pointer;
+    }
+    
+    header .user {
+        margin: 8px 0px 0px 0px;
+        color: #797676;
+        font-size: 13px;
+        cursor: pointer;
     }
 </style>
 
 <header>
     <div class="row">
-        <div class="col-lg-1 col-md-1 col-sm-12 col-xs-12 text-center">
+        <div class="col-lg-1 col-md-1 col-sm-12 col-xs-12 text-right">
             <a href="" class="top-logo">
                 <i class="fa fa-home" aria-hidden="true"></i>
             </a>    
@@ -60,7 +75,7 @@
         <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
             <a>
                 <i class="fa fa-user-circle" aria-hidden="true"></i>
-                Екатерина Иванова
+                <div class="user">Екатерина Иванова</div>
             </a>    
         </div>    
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
