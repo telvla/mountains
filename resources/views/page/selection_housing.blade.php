@@ -97,10 +97,61 @@
         </div>    
     </div>        
 </header>
-<div class="row">
-    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 selection-housing-filtr">
-        фильтр
-    </div>    
+
+<style>
+    .wr-selection-housing-filtr {
+        background: url('https://phonoteka.org/uploads/posts/2021-05/1620637635_4-phonoteka_org-p-fon-gori-cherno-belie-5.jpg') 100% 70% no-repeat;
+        background-size: auto;
+        background-size: cover;
+        height: 200px;        
+        margin: 20px 0px 30px 0px;        
+    }
+    
+    .space {
+        padding: 80px 0px 0px 0px;
+    }
+    
+    .wr-selection-housing-filtr botton {
+        background-color: #ccc;
+        color: #fff;
+        padding: 17px 0px 13px 0px;
+        font-size: 16px;
+        width: 100%;
+        display: block;
+        text-align: center;
+        font-weight: bold;
+    }
+    
+    .btn-still {
+        padding: 17px 0px 13px 0px;        
+        text-align: center;
+        font-size: 16px;
+        display: block;
+    }
+</style>
+
+<div class="wr-selection-housing-filtr">
+    <div class="row space">
+        <div class="col-lg-1 col-md-1 col-sm-1 col-xs-12"></div>    
+        
+        <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12" style="background: #fff;">
+            1
+        </div>    
+        <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12" style="background: #fff;">
+            2
+        </div>    
+        <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12" style="background: #fff;">
+            3
+        </div>    
+        <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12" style="background: #fff;">
+            <a class="btn-still">Еще фильтры</a>
+        </div>    
+        <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
+            <botton>Подобрать жильё</botton>
+        </div>    
+        
+        <div class="col-lg-1 col-md-1 col-sm-1 col-xs-12"></div>    
+    </div>        
 </div>        
 
 
@@ -115,13 +166,7 @@
 
 
 
-
 <style>
-    .selection-housing-filtr {
-        margin: 50px 0px 50px 0px;
-        background-color: #ccc;
-    }
-    
     .selection-housing {
         
     }
