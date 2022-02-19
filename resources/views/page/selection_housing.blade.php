@@ -67,8 +67,7 @@
     .bread-crumbs-separator {
         margin: 0px 5px 0px 5px;
     }
-</style>
-<style>
+
     .wr-selection-housing-filtr {
         background: url('https://phonoteka.org/uploads/posts/2021-05/1620637635_4-phonoteka_org-p-fon-gori-cherno-belie-5.jpg') 100% 70% no-repeat;
         background-size: auto;
@@ -148,8 +147,7 @@
     .pad-0 {
         padding: 0px 0px 0px 0px;
     }    
-</style>
-<style>
+
     .selection-housing {
         
     }
@@ -248,8 +246,6 @@
         margin: -15px 0px 0px 28px
     }
    
-</style>
-<style>
     .wr-item-big-sel-hous {
         background: url('http://images6.fanpop.com/image/photos/40900000/Colorado-united-states-of-america-40962952-1024-682.jpg') 100% 100% no-repeat;
         background-size: auto;
@@ -274,8 +270,7 @@
         font-size: 25px;
         color: #fff;
     }   
-</style>
-<style>
+
     .wr-select-excursions {
         background: url('https://million-wallpapers.ru/wallpapers/2/9/434034035674145/ch-rno-belyj-fon-s-gorami.jpg') 100% 50% no-repeat;
         background-size: auto;
@@ -299,8 +294,7 @@
         color: #8e8888;
         cursor: pointer;
     } 
-</style>
-<style>
+
     .wr-sale-selection-housing {
         background-color: #a49b9a;
         color: #fff;
@@ -337,8 +331,7 @@
         background-color: #fff;
         cursor: pointer;
     }
-</style>
-<style>
+
     .wr-box-info {
         margin: 40px 0px 45px 0px;
     }
@@ -358,7 +351,6 @@
         }
     }
 </style>
-
 <header>
     <div class="row">
         <div class="col-lg-1 col-md-1 col-sm-12 col-xs-12 text-right">
