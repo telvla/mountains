@@ -100,11 +100,12 @@
 
 <style>
     .wr-selection-housing-filtr {
-        background: url('https://phonoteka.org/uploads/posts/2021-05/1620637635_4-phonoteka_org-p-fon-gori-cherno-belie-5.jpg') 100% 70% no-repeat;
+        /*background: url('https://phonoteka.org/uploads/posts/2021-05/1620637635_4-phonoteka_org-p-fon-gori-cherno-belie-5.jpg') 100% 70% no-repeat;*/
         background-size: auto;
         background-size: cover;
         height: 200px;        
         margin: 20px 0px 30px 0px;        
+        background: #000;
     }
     
     .space {
@@ -114,7 +115,7 @@
     .wr-selection-housing-filtr botton {
         background-color: #ccc;
         color: #fff;
-        padding: 17px 0px 13px 0px;
+        padding: 22px 0px 18px 0px;
         font-size: 16px;
         width: 100%;
         display: block;
@@ -123,32 +124,62 @@
     }
     
     .btn-still {
-        padding: 17px 0px 13px 0px;        
+        padding: 22px 0px 18px 0px;        
         text-align: center;
         font-size: 16px;
         display: block;
         color: #ccc;
+        background: #fff;
     }
+    
+    .btn-arrival-date {
+        font-size: 16px;
+        display: block;
+        color: #ccc;
+    }
+    
+    .btn-arrival-date-info {
+        font-size: 16px;
+        display: block;
+        color: #000;
+        margin: -4px 0px 0px 0px;
+    }
+    
+    .btn-arrival-date-info .fa-angle-down {
+        padding-left: 10px;
+        font-size: 20px;        
+    }
+    
+    .wr-background-selection-housing-filtr {
+        background: #fff;
+        padding: 13px 0px 6px 0px;     
+    }    
+    
+    .pad-0 {
+        padding: 0px 0px 0px 0px;
+    }    
 </style>
 
 <div class="wr-selection-housing-filtr">
     <div class="row space">
         <div class="col-lg-1 col-md-1 col-sm-1 col-xs-12"></div>    
         
-        <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12" style="background: #fff;">
-            <a class="btn-still">Дата заезда</a>
-            <p><span>17 декабря</span> <i class="fa fa-angle-down" aria-hidden="true"></i></p>
+        <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12 wr-background-selection-housing-filtr">
+            <a class="btn-arrival-date">Дата заезда</a>
+            <p class="btn-arrival-date-info"><span>17 декабря 2022</span> <i class="fa fa-angle-down" aria-hidden="true"></i></p>
         </div>    
-        <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12" style="background: #fff;">
-            2
+        <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12 wr-background-selection-housing-filtr">
+            <a class="btn-arrival-date">Дата выезда</a>
+            <p class="btn-arrival-date-info"><span>27 декабря 2022</span> <i class="fa fa-angle-down" aria-hidden="true"></i></p>            
         </div>    
-        <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12" style="background: #fff;">
-            3
+        <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12 wr-background-selection-housing-filtr">
+            <a class="btn-arrival-date">Гости</a>
+            <p class="btn-arrival-date-info"><span>2 взрослых</span> <i class="fa fa-angle-down" aria-hidden="true"></i> <span>без детей</span></p>            
         </div>    
-        <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12" style="background: #fff;">
+        <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12 pad-0">
             <a class="btn-still">Еще фильтры</a>
         </div>    
-        <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
+        <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12 pad-0">
             <botton>Подобрать жильё</botton>
         </div>    
         
