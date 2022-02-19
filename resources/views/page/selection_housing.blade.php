@@ -51,53 +51,6 @@
         margin: 0px 5px 0px 5px;
     }
 </style>
-
-<header>
-    <div class="row">
-        <div class="col-lg-1 col-md-1 col-sm-12 col-xs-12 text-right">
-            <a href="" class="top-logo">
-                <i class="fa fa-home" aria-hidden="true"></i>
-            </a>    
-        </div>
-        <div class="col-lg-9 col-md-9 col-sm-12 col-xs-12">
-            <ul class="top-menu">
-                <li>
-                    <a href="">О курорте</a>
-                </li>
-                <li>
-                    <a href="">Как добраться</a>
-                </li>
-                <li>
-                    <a href="">Поиск жилья</a>
-                </li>
-                <li>
-                    <a href="">Активный отдых</a>
-                </li>
-                <li>
-                    <a href="">Пассивный отыдх</a>
-                </li>            
-                <li>
-                    <a href="">Где поесть</a>
-                </li>
-                <li>
-                    <a href="">Подьемники</a>
-                </li>  
-            </ul>
-        </div>
-        <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
-            <a>
-                <i class="fa fa-user-circle" aria-hidden="true"></i>
-                <div class="user">Екатерина Иванова</div>
-            </a>    
-        </div>    
-        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-            <div class="wr-bread-crumbs">
-                <a class="bread-crumbs-link" href="">Главная</a> <span class="bread-crumbs-separator">/</span> <a class="bread-crumbs-link" href="">Подбор жилья</a>
-            </div>    
-        </div>    
-    </div>        
-</header>
-
 <style>
     .wr-selection-housing-filtr {
         /*background: url('https://phonoteka.org/uploads/posts/2021-05/1620637635_4-phonoteka_org-p-fon-gori-cherno-belie-5.jpg') 100% 70% no-repeat;*/
@@ -159,46 +112,6 @@
         padding: 0px 0px 0px 0px;
     }    
 </style>
-
-<div class="wr-selection-housing-filtr">
-    <div class="row space">
-        <div class="col-lg-1 col-md-1 col-sm-1 col-xs-12"></div>    
-        
-        <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12 wr-background-selection-housing-filtr">
-            <a class="btn-arrival-date">Дата заезда</a>
-            <p class="btn-arrival-date-info"><span>17 декабря 2022</span> <i class="fa fa-angle-down" aria-hidden="true"></i></p>
-        </div>    
-        <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12 wr-background-selection-housing-filtr">
-            <a class="btn-arrival-date">Дата выезда</a>
-            <p class="btn-arrival-date-info"><span>27 декабря 2022</span> <i class="fa fa-angle-down" aria-hidden="true"></i></p>            
-        </div>    
-        <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12 wr-background-selection-housing-filtr">
-            <a class="btn-arrival-date">Гости</a>
-            <p class="btn-arrival-date-info"><span>2 взрослых</span> <i class="fa fa-angle-down" aria-hidden="true"></i> <span>без детей</span></p>            
-        </div>    
-        <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12 pad-0">
-            <a class="btn-still">Еще фильтры</a>
-        </div>    
-        <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12 pad-0">
-            <botton>Подобрать жильё</botton>
-        </div>    
-        
-        <div class="col-lg-1 col-md-1 col-sm-1 col-xs-12"></div>    
-    </div>        
-</div>        
-
-
-
-
-
-
-
-
-
-
-
-
-
 <style>
     .selection-housing {
         
@@ -230,12 +143,19 @@
     .selection-housing-btn {
         display: inline;
         background-color: #fff;
-        border: solid 2px #8e8888;
-        color: #8e8888;
-        padding: 9px 25px 9px 25px;
+        border: solid 2px #4f4f4f;
+        color: #4f4f4f;
+        padding: 11px 25px 8px 25px;
         font-size: 16px;
-        margin: 50px 0px 15px 0px;        
+        margin: 50px 0px 15px 0px;
+        text-decoration: none;
     }    
+    
+    .selection-housing-btn:hover {
+        text-decoration: none;
+        color: #fff;
+        background-color: #4f4f4f;
+    }
     
     .item-sel-hous-img {
         width: 100%;
@@ -282,8 +202,172 @@
         height: 30px;
         margin: -15px 0px 0px 28px
     }
+   
+</style>
+<style>
+    .wr-item-big-sel-hous {
+        background: url('http://images6.fanpop.com/image/photos/40900000/Colorado-united-states-of-america-40962952-1024-682.jpg') 100% 100% no-repeat;
+        background-size: auto;
+        background-size: cover;
+        height: 500px;
+    }
+
+    .wr-item-big-sel-hous .grey {
+        background-color: rgba(162, 163, 164, 0.7);
+        width: 100%;
+        height: 500px;
+    }
+
+    .grey .row {
+        width: 480px;
+        padding: 220px 0px 0px 40px;
+        color: #fff;
+    }
+
+    .grey h2 {
+        font-weight: bold;
+        font-size: 21px;
+    }   
+</style>
+<style>
+    .wr-select-excursions {
+        background: url('https://million-wallpapers.ru/wallpapers/2/9/434034035674145/ch-rno-belyj-fon-s-gorami.jpg') 100% 50% no-repeat;
+        background-size: auto;
+        background-size: cover;
+        height: 300px; 
+        margin: 25px 0px 40px 0px;
+        text-align: center;
+        padding: 200px 0px 0px 0px;
+    }
+    
+    .wr-select-excursions botton {
+        background-color: #8e8888;
+        border: solid 2px #8e8888;
+        color: #fff;
+        padding: 8px 25px 6px 25px;
+        font-size: 16px;        
+    }
+</style>
+<style>
+    .wr-sale-selection-housing {
+        background-color: #8e8888;
+        color: #fff;
+        padding: 50px;
+        margin: 0px 0px 25px 0px;
+    }
+    
+    .wr-sale-selection-housing .title {
+        font-size: 45px;
+        font-weight: bold;
+    }
+    
+    .wr-sale-selection-housing .name-hotel {
+        margin: -20px 0px 0px 0px;
+    }
+    
+    .wr-sale-selection-housing .sale {
+        margin: 0px 0px 20px 0px;
+        font-size: 20px;
+        font-weight: bold;        
+        display: block;        
+    }
+    
+    .wr-sale-selection-housing botton {
+        background-color: #8e8888;
+        border: solid 2px #fff;
+        color: #fff;
+        padding: 8px 25px 6px 25px;
+        font-size: 16px;
+    }
+</style>
+<style>
+    .wr-box-info {
+        margin: 40px 0px 45px 0px;
+    }
+
+    .wr-box-info h3 {
+        font-weight: bold;
+    }    
+    
+    @media(max-width:480px) {
+        .wr-box-info {
+            margin: 25px 0px 25px 0px;            
+        }
+    }
 </style>
 
+
+
+<header>
+    <div class="row">
+        <div class="col-lg-1 col-md-1 col-sm-12 col-xs-12 text-right">
+            <a href="" class="top-logo">
+                <i class="fa fa-home" aria-hidden="true"></i>
+            </a>    
+        </div>
+        <div class="col-lg-9 col-md-9 col-sm-12 col-xs-12">
+            <ul class="top-menu">
+                <li>
+                    <a href="">О курорте</a>
+                </li>
+                <li>
+                    <a href="">Как добраться</a>
+                </li>
+                <li>
+                    <a href="">Поиск жилья</a>
+                </li>
+                <li>
+                    <a href="">Активный отдых</a>
+                </li>
+                <li>
+                    <a href="">Пассивный отыдх</a>
+                </li>            
+                <li>
+                    <a href="">Где поесть</a>
+                </li>
+                <li>
+                    <a href="">Подьемники</a>
+                </li>  
+            </ul>
+        </div>
+        <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
+            <a>
+                <i class="fa fa-user-circle" aria-hidden="true"></i>
+                <div class="user">Екатерина Иванова</div>
+            </a>    
+        </div>    
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <div class="wr-bread-crumbs">
+                <a class="bread-crumbs-link" href="">Главная</a> <span class="bread-crumbs-separator">/</span> <a class="bread-crumbs-link" href="">Подбор жилья</a>
+            </div>    
+        </div>    
+    </div>        
+</header>
+<div class="wr-selection-housing-filtr">
+    <div class="row space">
+        <div class="col-lg-1 col-md-1 col-sm-1 col-xs-12"></div>    
+        <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12 wr-background-selection-housing-filtr">
+            <a class="btn-arrival-date">Дата заезда</a>
+            <p class="btn-arrival-date-info"><span>17 декабря 2022</span> <i class="fa fa-angle-down" aria-hidden="true"></i></p>
+        </div>    
+        <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12 wr-background-selection-housing-filtr">
+            <a class="btn-arrival-date">Дата выезда</a>
+            <p class="btn-arrival-date-info"><span>27 декабря 2022</span> <i class="fa fa-angle-down" aria-hidden="true"></i></p>            
+        </div>    
+        <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12 wr-background-selection-housing-filtr">
+            <a class="btn-arrival-date">Гости</a>
+            <p class="btn-arrival-date-info"><span>2 взрослых</span> <i class="fa fa-angle-down" aria-hidden="true"></i> <span>без детей</span></p>            
+        </div>    
+        <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12 pad-0">
+            <a class="btn-still">Еще фильтры</a>
+        </div>    
+        <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12 pad-0">
+            <botton>Подобрать жильё</botton>
+        </div>    
+        
+        <div class="col-lg-1 col-md-1 col-sm-1 col-xs-12"></div>    
+    </div>        
+</div>        
 <div class="row wr-item-sel-hous">
     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
         <div>
@@ -333,33 +417,6 @@
             </div>
         </div>            
     </div>
-    
-    <style>
-        .wr-item-big-sel-hous {
-            background: url('http://images6.fanpop.com/image/photos/40900000/Colorado-united-states-of-america-40962952-1024-682.jpg') 100% 100% no-repeat;
-            background-size: auto;
-            background-size: cover;
-            height: 500px;
-        }
-        
-        .wr-item-big-sel-hous .grey {
-            background-color: rgba(162, 163, 164, 0.7);
-            width: 100%;
-            height: 500px;
-        }
-        
-        .grey .row {
-            width: 480px;
-            padding: 220px 0px 0px 40px;
-            color: #fff;
-        }
-        
-        .grey h2 {
-            font-weight: bold;
-            font-size: 21px;
-        }   
-    </style>
-        
     <div class="col-lg-8 col-md-4 col-sm-12 col-xs-12">
         <div class="wr-item-big-sel-hous">
             <div class="grey">
@@ -544,67 +601,9 @@
         </div>            
     </div>
 </div>
-
-<style>
-    .wr-select-excursions {
-        background: url('https://million-wallpapers.ru/wallpapers/2/9/434034035674145/ch-rno-belyj-fon-s-gorami.jpg') 100% 50% no-repeat;
-        background-size: auto;
-        background-size: cover;
-        height: 300px; 
-        margin: 25px 0px 40px 0px;
-        text-align: center;
-        padding: 200px 0px 0px 0px;
-    }
-    
-    .wr-select-excursions botton {
-        background-color: #8e8888;
-        border: solid 2px #8e8888;
-        color: #fff;
-        padding: 8px 25px 6px 25px;
-        font-size: 16px;        
-    }
-</style>
-
 <div class="wr-select-excursions">
     <botton>Выбрать экскурсию</botton>
 </div>
-
-
-
-
-<style>
-    .wr-sale-selection-housing {
-        background-color: #8e8888;
-        color: #fff;
-        padding: 50px;
-        margin: 0px 0px 25px 0px;
-    }
-    
-    .wr-sale-selection-housing .title {
-        font-size: 45px;
-        font-weight: bold;
-    }
-    
-    .wr-sale-selection-housing .name-hotel {
-        margin: -20px 0px 0px 0px;
-    }
-    
-    .wr-sale-selection-housing .sale {
-        margin: 0px 0px 20px 0px;
-        font-size: 20px;
-        font-weight: bold;        
-        display: block;        
-    }
-    
-    .wr-sale-selection-housing botton {
-        background-color: #8e8888;
-        border: solid 2px #fff;
-        color: #fff;
-        padding: 8px 25px 6px 25px;
-        font-size: 16px;
-    }
-</style>
-    
 <div class="row">
     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
         <div>
@@ -707,7 +706,6 @@
             <p class="sale">-20% на любой номер</p>
             <botton>Выбрать номер</botton>
         </div>
-        
         <div>
             <img class="item-sel-hous-img" src="https://www.usualhouse.com/wp-content/uploads/2020/01/interesting-snowy-house.jpg" />
         </div>
@@ -754,7 +752,6 @@
                 </div>    
             </div>
         </div>        
-        
         <div class="wr-sale-selection-housing text-center" style="margin: 25px 0px 0px 0px;">
             <p class="title">Акция</p>
             <p class="name-hotel">Отель "Вершина"</p>
@@ -857,29 +854,6 @@
         </div>        
     </div>    
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<style>
-    .wr-box-info {
-        margin: 40px 0px 45px 0px;
-    }
-
-    .wr-box-info h3 {
-        font-weight: bold;
-    }    
-</style>
-
 <div class="row">
     <div class="col-lg-4 col-md-4 col-sm-10 col-xs-12 wr-box-info">
         <h3>Ламинарно-потоковые</h3>
@@ -891,7 +865,7 @@
         </p>
         <br />
         <center>
-            <botton class="selection-housing-btn">Узнать больше</botton>
+            <a href="" class="selection-housing-btn">Узнать больше</a>
         </center>
         <br />
     </div>
@@ -905,7 +879,7 @@
         </p>
         <br />
         <center>
-            <botton class="selection-housing-btn">Узнать больше</botton>
+            <a href="" class="selection-housing-btn">Узнать больше</a>
         </center>
         <br />
     </div>
@@ -919,7 +893,7 @@
         </p>
         <br />
         <center>
-            <botton class="selection-housing-btn">Узнать больше</botton>
+            <a href="" class="selection-housing-btn">Узнать больше</a>
         </center>
         <br />
     </div>    
