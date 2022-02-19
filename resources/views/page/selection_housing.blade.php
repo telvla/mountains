@@ -127,6 +127,7 @@
         text-align: center;
         font-size: 16px;
         display: block;
+        color: #ccc;
     }
 </style>
 
@@ -135,7 +136,8 @@
         <div class="col-lg-1 col-md-1 col-sm-1 col-xs-12"></div>    
         
         <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12" style="background: #fff;">
-            1
+            <a class="btn-still">Дата заезда</a>
+            <p><span>17 декабря</span> <i class="fa fa-angle-down" aria-hidden="true"></i></p>
         </div>    
         <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12" style="background: #fff;">
             2
