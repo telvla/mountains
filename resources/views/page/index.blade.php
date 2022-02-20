@@ -110,29 +110,97 @@
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                     <ul>
-                        <li href="" alt="">Трекинг</li>
-                        <li href="" alt="">Альпинизм</li>
-                        <li href="" alt="">Учебно-тренировочный сбор</li>
-                        <li href="" alt="">Конные прогулки</li>
-                        <li href="" alt="">Трейларининнг</li>
-                        <li href="" alt="">Экскурсии</li>
-                        <li href="" alt="">Рафтинг</li>
-                        <li href="" alt="">Джипинг</li>
-                        <li href="" alt="">Кемпинг</li>
-                        <li href="" alt="">Рыбалка</li>
+                        <li>
+                            <a href="" alt="">
+                                Трекинг
+                            </a>
+                        </li>
+                        <li>
+                            <a href="" alt="">
+                                Альпинизм
+                            </a>
+                        </li>
+                        <li>
+                            <a href="" alt="">
+                                Учебно-тренировочный сбор
+                            </a>
+                        </li>
+                        <li>
+                            <a href="" alt="">
+                                Конные прогулки
+                            </a>
+                        </li>
+                        <li>
+                            <a href="" alt="">
+                                Трейларининнг
+                            </a>
+                        </li>
+                        <li>
+                            <a href="" alt="">
+                                Экскурсии
+                            </a>
+                        </li>
+                        <li>
+                            <a href="" alt="">
+                                Рафтинг
+                            </a>
+                        </li>
+                        <li>
+                            <a href="" alt="">
+                                Джипинг
+                            </a>
+                        </li>
+                        <li>
+                            <a href="" alt="">
+                                Кемпинг
+                            </a>
+                        </li>
+                        <li>
+                            <a href="" alt="">
+                                Рыбалка
+                            </a>
+                        </li>
                     </ul>
                     <p>ЛЕТО</p>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                     <p>ЗИМА</p>
                     <ul class="wr-seasons-right">
-                        <li href="" alt="">Горные лыжи и сноуборд</li>
-                        <li href="" alt="">Учебный / детский склон</li>
-                        <li href="" alt="">Катание на тьюбинге</li>
-                        <li href="" alt="">Полет на параплане</li>
-                        <li href="" alt="">Ски - пасс</li>
-                        <li href="" alt="">Трассы</li>
-                        <li href="" alt="">График работы подьемника</li>
+                        <li>
+                            <a href="" alt="">
+                                Горные лыжи и сноуборд
+                            </a>
+                        </li>
+                        <li>
+                            <a href="" alt="">
+                                Учебный / детский склон
+                            </a>
+                        </li>
+                        <li>
+                            <a href="" alt="">
+                                Катание на тьюбинге
+                            </a>
+                        </li>
+                        <li>
+                            <a href="" alt="">
+                                Полет на параплане
+                            </a>
+                        </li>
+                        <li>
+                            <a href="" alt="">
+                                Ски - пасс
+                            </a>
+                        </li>
+                        <li>
+                            <a href="" alt="">
+                                Трассы
+                            </a>
+                        </li>
+                        <li>
+                            <a href="" alt="">
+                                График работы подьемника
+                            </a>    
+                        </li>
                     </ul>
                 </div>
             </div>
