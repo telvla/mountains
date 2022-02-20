@@ -166,6 +166,19 @@ footer .mar-top-title {
     font-size: 16px;            
 }
 
+.icon-cube {
+    height: 18px;
+    width: 18px;
+    background: #75727a;
+    float: left;
+    margin: 0px 10px 0px 0px; 
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);    
+}
+
 .wr-routes botton {
     border: solid 3px #000;
     background: #000;
@@ -188,7 +201,14 @@ footer .mar-top-title {
     display: inline;
     padding-left: 10px;
     padding-right: 10px;
+    margin: 0px 70px 0px 0px;
 }        
+
+.wr-routes li a {
+    color: #000;
+    text-decoration: underline;
+    font-size: 16px;
+}
 
 .wr-trails {
     padding-top: 150px;

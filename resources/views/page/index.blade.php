@@ -216,9 +216,24 @@
                     <br ><br >
                     <botton>Выбор маршрута</botton>         
                     <ul>
-                        <li href="" alt=""><i class="fa fa-square" aria-hidden="true"></i> Пеший</li>
-                        <li href="" alt=""><i class="fa fa-square" aria-hidden="true"></i> Конный</li>
-                        <li href="" alt=""><i class="fa fa-square" aria-hidden="true"></i> Джиппинг</li>
+                        <li>
+                            <div class="icon-cube"></div>
+                            <a href="" alt="">
+                                Пеший
+                            </a>
+                        </li>
+                        <li>
+                            <div class="icon-cube"></div>
+                            <a href="" alt="">
+                                Конный
+                            </a>
+                        </li>
+                        <li>
+                            <div class="icon-cube"></div>                            
+                            <a href="" alt="">
+                                Джиппинг
+                            </a>
+                        </li>
                     </ul>                
                 </div>
             </div>
