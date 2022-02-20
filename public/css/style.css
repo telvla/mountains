@@ -141,6 +141,14 @@ footer .mar-top-title {
     margin-left: -40px;
 }
 
+.wr-seasons ul li {
+    margin: 0px 0px 12px 0px;
+}
+
+.wr-seasons ul li a {
+    color: #000;
+}
+
 .wr-seasons-right {
     margin-left: 6%;
 }
