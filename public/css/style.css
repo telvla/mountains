@@ -230,8 +230,8 @@ footer .mar-top-title {
 }
 
 .wr-trails botton {
-    border: solid 3px #000;
-    background: #000;
+    border: solid 1px #75727a;
+    background: #75727a;
     color: #fff;
     padding-left: 25px;
     padding-right: 25px;
@@ -239,7 +239,13 @@ footer .mar-top-title {
     padding-top: 15px;
     padding-bottom: 15px;
     margin-top: 34px;              
+    cursor: pointer;
 }        
+
+.wr-trails botton:hover {
+    background: #fff;
+    color: #75727a;    
+}
 
 .wr-tracking {
     padding-top: 150px;
