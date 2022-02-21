@@ -300,15 +300,15 @@
                         <p class="info">Га - площадь заповедника</p>
                     </div>
                     <div class="wr-meaning-info">
-                        <p class="meaning">122 606</p>
+                        <p class="meaning">180</p>
                         <p class="info">Га - площадь заповедника</p>
                     </div>
                     <div class="wr-meaning-info">
-                        <p class="meaning">122 606</p>
+                        <p class="meaning">290</p>
                         <p class="info">Га - площадь заповедника</p>
                     </div>                
                     <div class="wr-meaning-info">
-                        <p class="meaning">122 606</p>
+                        <p class="meaning">1 207</p>
                         <p class="info">Га - площадь заповедника</p>
                     </div>                
                 </div>

@@ -327,11 +327,12 @@ footer .mar-top-title {
 }
 
 .wr-teberdinsky-nature-reserve .wr-meaning-info .meaning {
-    font-size: 54px;
+    font-size: 65px;
+    color: #75727a;
 }
 
 .wr-teberdinsky-nature-reserve .wr-meaning-info .info {
-    margin-top: -25px;
+    margin: -35px 10px 30px 0px;
 }        
 
 .wr-meaning-info {
@@ -360,7 +361,7 @@ footer .mar-top-title {
 }
 
 .wr-teberdinsky-nature-reserve botton:hover {
-    background: #75727a;
+    background: #fff;
     color: #75727a;    
 }
 
