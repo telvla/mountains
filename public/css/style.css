@@ -273,8 +273,8 @@ footer .mar-top-title {
 }
 
 .wr-tracking botton {
-    border: solid 3px #000;
-    background: #000;
+    border: solid 1px #75727a;
+    background: #75727a;
     color: #fff;
     padding-left: 25px;
     padding-right: 25px;
@@ -282,6 +282,12 @@ footer .mar-top-title {
     padding-top: 15px;
     padding-bottom: 15px;
     margin-top: 34px;              
+    cursor: pointer;
+}
+
+.wr-tracking botton:hover {
+    background: #fff;
+    color: #75727a;    
 }
 
 .wr-mountaineering {
@@ -298,8 +304,8 @@ footer .mar-top-title {
 }  
 
 .wr-mountaineering botton {
-    border: solid 3px #000;
-    background: #000;
+    border: solid 1px #75727a;
+    background: #75727a;
     color: #fff;
     padding-left: 25px;
     padding-right: 25px;
@@ -307,6 +313,12 @@ footer .mar-top-title {
     padding-top: 15px;
     padding-bottom: 15px;
     margin-top: 34px;  
+    cursor: pointer;
+}
+
+.wr-mountaineering botton:hover {
+    background: #fff;
+    color: #75727a;    
 }
 
 .wr-teberdinsky-nature-reserve {
@@ -335,20 +347,31 @@ footer .mar-top-title {
 }
 
 .wr-teberdinsky-nature-reserve botton {
-    border: solid 3px #000;
-    background: #000;
+    border: solid 1px #75727a;
+    background: #75727a;
     color: #fff;
     padding-left: 25px;
     padding-right: 25px;
     font-size: 17px;
     padding-top: 15px;
     padding-bottom: 15px;
-    margin-top: 34px;              
+    margin-top: 34px;
+    cursor: pointer;
+}
+
+.wr-teberdinsky-nature-reserve botton:hover {
+    background: #75727a;
+    color: #75727a;    
+}
+
+.background-safety-mountains {
+    background-color: rgba(162, 163, 164, 0.7);
 }
 
 .wr-safety-mountains {
     padding-top: 150px;
     padding-bottom: 150px;
+    color: #fff;
 }
 
 .wr-safety-mountains .info {
@@ -360,13 +383,20 @@ footer .mar-top-title {
 }
 
 .wr-safety-mountains botton {
-    border: solid 3px #000;
+    border: solid 1px #fff;
+    color: #fff;
     padding-left: 25px;
     padding-right: 25px;
     font-size: 17px;
     padding-top: 15px;
     padding-bottom: 15px;
-    margin-top: 34px;            
+    margin-top: 34px;
+    cursor: pointer;
+}
+
+.wr-safety-mountains botton:hover {
+    color: #4f4f4f;
+    background: #fff;
 }
 
 @media(max-width:480px) {
