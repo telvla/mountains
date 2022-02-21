@@ -180,19 +180,25 @@ footer .mar-top-title {
 }
 
 .wr-routes botton {
-    border: solid 3px #000;
-    background: #000;
+    border: solid 1px #75727a;
+    background: #75727a;
     color: #fff;
     padding-left: 25px;
     padding-right: 25px;
     font-size: 17px;
     padding-top: 15px;
     padding-bottom: 15px;
-    margin-top: 34px;             
+    margin: 40px 0px 0px 0px;   
+    cursor: pointer;
 }        
 
+.wr-routes botton:hover {
+    background: #fff;
+    color: #75727a;    
+}
+
 .wr-routes ul {
-    margin-top: 40px;
+    margin: 70px 0px 0px 0px;
     margin-left: -40px;
 }
 
