@@ -256,20 +256,20 @@
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                     <div class="wr-meaning-info">
-                        <p class="meaning">122 606</p>
-                        <p class="info">Га - площадь заповедника</p>
+                        <p class="meaning">18</p>
+                        <p class="info">маршрутов</p>
                     </div>
                     <div class="wr-meaning-info">
-                        <p class="meaning">122 606</p>
-                        <p class="info">Га - площадь заповедника</p>
+                        <p class="meaning">94</p>
+                        <p class="info">киломметра троп</p>
                     </div>
                     <div class="wr-meaning-info">
-                        <p class="meaning">122 606</p>
-                        <p class="info">Га - площадь заповедника</p>
+                        <p class="meaning">26</p>
+                        <p class="info">проводников</p>
                     </div>                
                     <div class="wr-meaning-info">
-                        <p class="meaning">122 606</p>
-                        <p class="info">Га - площадь заповедника</p>
+                        <p class="meaning">100%</p>
+                        <p class="info">довольныйх участников</p>
                     </div>                
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
@@ -302,15 +302,15 @@
                     </div>
                     <div class="wr-meaning-info">
                         <p class="meaning">180</p>
-                        <p class="info">Га - площадь заповедника</p>
+                        <p class="info">озер на территории</p>
                     </div>
                     <div class="wr-meaning-info">
                         <p class="meaning">290</p>
-                        <p class="info">Га - площадь заповедника</p>
+                        <p class="info">видов позвоночных животных</p>
                     </div>                
                     <div class="wr-meaning-info">
                         <p class="meaning">1 207</p>
-                        <p class="info">Га - площадь заповедника</p>
+                        <p class="info">видов сосудистых растений</p>
                     </div>                
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
