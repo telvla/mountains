@@ -258,11 +258,12 @@ footer .mar-top-title {
 }
 
 .wr-tracking .wr-meaning-info .meaning {
-    font-size: 54px;
+    font-size: 65px;
+    color: #75727a;
 }
 
 .wr-tracking .wr-meaning-info .info {
-    margin-top: -25px;
+    margin: -35px 0px 30px 3px;
 }        
 
 .wr-meaning-info {

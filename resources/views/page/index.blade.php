@@ -255,7 +255,7 @@
         <div class="container wr-tracking">
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                    <div class="wr-meaning-info">
+                    <div class="wr-meaning-info" style="margin-top: -60px;">
                         <p class="meaning">18</p>
                         <p class="info">маршрутов</p>
                     </div>
