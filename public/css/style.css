@@ -149,8 +149,12 @@ footer .mar-top-title {
     color: #000;
 }
 
-.wr-seasons-right {
-    margin-left: 6%;
+.background-winter {
+    width: 300px;
+    height: 400px;
+    background-color: rgba(162, 163, 164, 0.7);
+    position: absolute;
+    margin: -50px 0px 0px 64px;
 }
 
 .wr-routes {
@@ -159,7 +163,8 @@ footer .mar-top-title {
 }
 
 .wr-routes .title {
-    font-size: 47px;            
+    font-size: 55px;
+    font-weight: bold;
 }
 
 .wr-routes .info {
@@ -183,12 +188,12 @@ footer .mar-top-title {
     border: solid 1px #75727a;
     background: #75727a;
     color: #fff;
-    padding-left: 25px;
-    padding-right: 25px;
+    padding: 0px 25px 0px 25px;
     font-size: 17px;
     padding-top: 15px;
     padding-bottom: 15px;
     margin: 40px 0px 0px 0px;   
+    display: inline-block;
     cursor: pointer;
 }        
 
@@ -198,8 +203,7 @@ footer .mar-top-title {
 }
 
 .wr-routes ul {
-    margin: 70px 0px 0px 0px;
-    margin-left: -40px;
+    margin: 50px 0px 0px -40px;
 }
 
 .wr-routes li {
@@ -332,7 +336,7 @@ footer .mar-top-title {
 }
 
 .wr-teberdinsky-nature-reserve .wr-meaning-info .info {
-    margin: -35px 10px 30px 0px;
+    margin: -35px 0px 30px 3px;
 }        
 
 .wr-meaning-info {

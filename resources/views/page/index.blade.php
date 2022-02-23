@@ -164,6 +164,7 @@
                     <p>ЛЕТО</p>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                    <div class="background-winter"></div>
                     <p>ЗИМА</p>
                     <ul class="wr-seasons-right">
                         <li>
@@ -202,6 +203,7 @@
                             </a>    
                         </li>
                     </ul>
+                
                 </div>
             </div>
         </div>
@@ -213,7 +215,6 @@
                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                     <p class="title">Маршруты</p>
                     <p class="info">Задача организации, в особенности же рамки и место обучения кадров обеспечивает широкому кругу (специалистов) участие в формировании системы обучения кадров, соответствует насущным потребностям.</p>
-                    <br ><br >
                     <botton>Выбор маршрута</botton>         
                     <ul>
                         <li>
@@ -295,7 +296,7 @@
         <div class="container wr-teberdinsky-nature-reserve">
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                    <div class="wr-meaning-info">
+                    <div class="wr-meaning-info" style="margin-top: -60px;">
                         <p class="meaning">122 606</p>
                         <p class="info">Га - площадь заповедника</p>
                     </div>
