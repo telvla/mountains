@@ -226,7 +226,8 @@ footer .mar-top-title {
 }
 
 .wr-trails .title {
-    font-size: 47px;
+    font-size: 55px;
+    font-weight: bold;
 }
 
 .wr-trails .info {
@@ -269,7 +270,8 @@ footer .mar-top-title {
 }
 
 .wr-tracking .title {
-    font-size: 47px;
+    font-size: 55px;
+    font-weight: bold;
 }
 
 .wr-tracking .info {
@@ -300,7 +302,8 @@ footer .mar-top-title {
 }
 
 .wr-mountaineering .title {
-    font-size: 47px;
+    font-size: 55px;
+    font-weight: bold;
 }
 
 .wr-mountaineering .info {
@@ -344,7 +347,9 @@ footer .mar-top-title {
 }
 
 .wr-teberdinsky-nature-reserve .title {
-    font-size: 47px;
+    font-size: 55px;
+    font-weight: bold;
+    line-height: 0.9;
 }
 
 .wr-teberdinsky-nature-reserve .info {
