@@ -168,7 +168,48 @@
             Для начала нужно получить id контейнера либо его имя. Можно воспользоваться командой:
             Для начала нужно получить id контейнера либо его имя. Можно воспользоваться командой:
             Для начала нужно получить id контейнера либо его имя. Можно воспользоваться командой:
-        </p>                
+        </p>
+        <br /><br />
+        <style>
+            .wr-reviews {
+                border-bottom: solid 2px #000;
+                padding: 15px 0px 25px 0px;
+                margin: 0px 0px 25px 0px;
+            }
+            
+            .wr-reviews .data-user {
+                font-size: 16px;
+                color: #4f4f4f;
+            }
+            
+            .wr-reviews i {
+                font-size: 21px;
+                padding: 0px 7px 0px 0px;
+            }
+            
+            .wr-reviews span {
+                color: #000;
+            }
+            
+            .wr-reviews .info {
+                margin: 15px 0px 10px 0px;
+            }
+            
+            .wr-reviews .link {
+                color: #4f4f4f;
+                text-decoration: underline;
+            }
+        </style>    
+        <h2>Отзывы</h2>
+        <div class="wr-reviews">
+            <p class="data-user"><i class="fa fa-user-circle" aria-hidden="true"></i> <span>Ксения</span>, 23.02.2022</p>
+            <p class="info">
+                Для начала нужно получить id контейнера либо его имя. Можно воспользоваться командой:
+                Для начала нужно получить id контейнера либо его имя. Можно воспользоваться командой:
+                Для начала нужно получить id контейнера либо его имя. Можно воспользоваться командой:            
+            </p>
+            <a class="link" href="">Читать полностью</a>
+        </div>        
     </div>    
     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
         <h2>Правила размещения</h2>
