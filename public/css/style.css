@@ -188,10 +188,8 @@ footer .mar-top-title {
     border: solid 1px #75727a;
     background: #75727a;
     color: #fff;
-    padding: 0px 25px 0px 25px;
+    padding: 12px 25px 10px 25px;
     font-size: 17px;
-    padding-top: 15px;
-    padding-bottom: 15px;
     margin: 40px 0px 0px 0px;   
     display: inline-block;
     cursor: pointer;
@@ -238,11 +236,8 @@ footer .mar-top-title {
     border: solid 1px #75727a;
     background: #75727a;
     color: #fff;
-    padding-left: 25px;
-    padding-right: 25px;
+    padding: 13px 25px 12px 25px;
     font-size: 17px;
-    padding-top: 15px;
-    padding-bottom: 15px;
     margin-top: 34px;              
     cursor: pointer;
 }        
@@ -283,11 +278,8 @@ footer .mar-top-title {
     border: solid 1px #75727a;
     background: #75727a;
     color: #fff;
-    padding-left: 25px;
-    padding-right: 25px;
+    padding: 13px 25px 12px 25px;
     font-size: 17px;
-    padding-top: 15px;
-    padding-bottom: 15px;
     margin-top: 34px;              
     cursor: pointer;
 }
@@ -315,11 +307,8 @@ footer .mar-top-title {
     border: solid 1px #75727a;
     background: #75727a;
     color: #fff;
-    padding-left: 25px;
-    padding-right: 25px;
+    padding: 13px 25px 12px 25px;
     font-size: 17px;
-    padding-top: 15px;
-    padding-bottom: 15px;
     margin-top: 34px;  
     cursor: pointer;
 }
@@ -361,11 +350,8 @@ footer .mar-top-title {
     border: solid 1px #75727a;
     background: #75727a;
     color: #fff;
-    padding-left: 25px;
-    padding-right: 25px;
+    padding: 13px 25px 12px 25px;
     font-size: 17px;
-    padding-top: 15px;
-    padding-bottom: 15px;
     margin-top: 34px;
     cursor: pointer;
 }
@@ -396,11 +382,8 @@ footer .mar-top-title {
 .wr-safety-mountains botton {
     border: solid 1px #fff;
     color: #fff;
-    padding-left: 25px;
-    padding-right: 25px;
+    padding: 13px 25px 12px 25px;
     font-size: 17px;
-    padding-top: 15px;
-    padding-bottom: 15px;
     margin-top: 34px;
     cursor: pointer;
 }
