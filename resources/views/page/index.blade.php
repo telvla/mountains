@@ -207,51 +207,47 @@
                 </div>
             </div>
         </div>
-        <div class="container wr-routes">
-            <div class="row">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-
-                </div>            
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                    <p class="title">Маршруты</p>
-                    <p class="info">Задача организации, в особенности же рамки и место обучения кадров обеспечивает широкому кругу (специалистов) участие в формировании системы обучения кадров, соответствует насущным потребностям.</p>
-                    <botton>Выбор маршрута</botton>         
-                    <ul>
-                        <li>
-                            <div class="icon-cube"></div>
-                            <a href="" alt="">
-                                Пеший
-                            </a>
-                        </li>
-                        <li>
-                            <div class="icon-cube"></div>
-                            <a href="" alt="">
-                                Конный
-                            </a>
-                        </li>
-                        <li>
-                            <div class="icon-cube"></div>                            
-                            <a href="" alt="">
-                                Джиппинг
-                            </a>
-                        </li>
-                    </ul>                
-                </div>
+        <div class="row wr-routes">
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <img src="https://s.mediasole.ru/images/626/626573/1.jpg" width="100%" />
+            </div>            
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <p class="title">Маршруты</p>
+                <p class="info">Задача организации, в особенности же рамки и место обучения кадров обеспечивает широкому кругу (специалистов) участие в формировании системы обучения кадров, соответствует насущным потребностям.</p>
+                <botton>Выбор маршрута</botton>         
+                <ul>
+                    <li>
+                        <div class="icon-cube"></div>
+                        <a href="" alt="">
+                            Пеший
+                        </a>
+                    </li>
+                    <li>
+                        <div class="icon-cube"></div>
+                        <a href="" alt="">
+                            Конный
+                        </a>
+                    </li>
+                    <li>
+                        <div class="icon-cube"></div>                            
+                        <a href="" alt="">
+                            Джиппинг
+                        </a>
+                    </li>
+                </ul>                
             </div>
-        </div>     
-        <div class="container wr-trails">
-            <div class="row">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                    <p class="title">Трассы</p>
-                    <p class="info">Задача организации, в особенности же рамки и место обучения кадров обеспечивает широкому кругу (специалистов) участие в формировании системы обучения кадров, соответствует насущным потребностям.</p>
-                    <br ><br >
-                    <botton>Посмотреть трассы</botton>         
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-
-                </div>
+        </div>
+        <div class="row wr-trails">
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <p class="title">Трассы</p>
+                <p class="info">Задача организации, в особенности же рамки и место обучения кадров обеспечивает широкому кругу (специалистов) участие в формировании системы обучения кадров, соответствует насущным потребностям.</p>
+                <br ><br >
+                <botton>Посмотреть трассы</botton>         
             </div>
-        </div>    
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <img src="https://s.mediasole.ru/images/626/626573/1.jpg" width="100%" />
+            </div>
+        </div>
         <div class="container wr-tracking">
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
@@ -280,17 +276,15 @@
                 </div>
             </div>
         </div>
-        <div class="container wr-mountaineering">
-            <div class="row">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                    <p class="title">Альпинизм</p>
-                    <p class="info">Задача организации, в особенности же рамки и место обучения кадров обеспечивает широкому кругу (специалистов) участие в формировании системы обучения кадров, соответствует насущным потребностям.</p>
-                    <br ><br >
-                    <botton>Посмотреть маршрут</botton>         
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-
-                </div>
+        <div class="row wr-mountaineering">
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <p class="title">Альпинизм</p>
+                <p class="info">Задача организации, в особенности же рамки и место обучения кадров обеспечивает широкому кругу (специалистов) участие в формировании системы обучения кадров, соответствует насущным потребностям.</p>
+                <br ><br >
+                <botton>Посмотреть маршрут</botton>         
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <img src="https://s.mediasole.ru/images/626/626573/1.jpg" width="100%" />
             </div>
         </div>
         <div class="container wr-teberdinsky-nature-reserve">

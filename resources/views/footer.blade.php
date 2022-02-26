@@ -123,5 +123,9 @@
         <script type="text/javascript" src="js/jquery-3.4.1.min.js"></script>
         <script type="text/javascript" src="js/bootstrap.js"></script>
         <script type="text/javascript" src="js/app.js"></script>
+        {{-- include page js file --}}
+        @if(!empty($file_js))
+            <script type="text/javascript" src="js/{{$file_js}}.js"></script>
+        @endif        
     </body>
 </html>
