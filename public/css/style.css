@@ -1,5 +1,4 @@
 .header-left {
-    /*border: solid #000 1px;*/
     width: 7%;
     float: left;
     padding-top: 25px;
@@ -7,7 +6,6 @@
 
 .header-right {
     width: 92%;
-    /*border: solid #0a678b 1px;*/
     float: left;
     padding-top: 25px;
 }
@@ -422,43 +420,3 @@ footer .mar-top-title {
         font-size: 28px;
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
