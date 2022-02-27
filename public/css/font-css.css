@@ -1,9 +1,0 @@
-        @font-face {
-           font-family: CondProLight;
-           src: local("CondProLight"),
-           url('/css/fonts/DINPro-Regular.otf');
-        }
-
-		body {
-            font-family: 'CondProLight';
-        }
