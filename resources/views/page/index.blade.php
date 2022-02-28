@@ -285,7 +285,7 @@
                     <botton>Посмотреть маршрут</botton>         
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                    <img src="https://s.mediasole.ru/images/626/626573/1.jpg" width="100%" />
+                    <img src="/img/mountaineering.png" width="100%" />
                 </div>
             </div>
             <div class="container wr-teberdinsky-nature-reserve">
