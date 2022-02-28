@@ -4,68 +4,100 @@
                     <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                         <p class="title">Основное</p>
                         <ul>
-                            <li href="" alt="">
-                                Ски-пассы
+                            <li>
+                                <a href="">
+                                    Ски-пассы
+                                <a>
                             </li>
-                            <li href="" alt="">
-                                Карта куротат
+                            <li>
+                                <a href="">
+                                    Карта куротат
+                                <a>
                             </li>
-                            <li href="" alt="">
-                                Веб-камеры
+                            <li>
+                                <a href="">
+                                    Веб-камеры
+                                <a>
                             </li>
-                            <li href="" alt="">
-                                Новости
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
-                        <p class="title">Основное</p>
-                        <ul>
-                            <li href="" alt="">
-                                Ски-пассы
-                            </li>
-                            <li href="" alt="">
-                                Карта куротат
-                            </li>
-                            <li href="" alt="">
-                                Веб-камеры
-                            </li>
-                            <li href="" alt="">
-                                Новости
+                            <li>
+                                <a href="">
+                                    Новости
+                                <a>
                             </li>
                         </ul>
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                         <p class="title">Основное</p>
                         <ul>
-                            <li href="" alt="">
-                                Ски-пассы
+                            <li>
+                                <a href="">
+                                    Ски-пассы
+                                <a>
                             </li>
-                            <li href="" alt="">
-                                Карта куротат
+                            <li>
+                                <a href="">
+                                    Карта куротат
+                                <a>
                             </li>
-                            <li href="" alt="">
-                                Веб-камеры
+                            <li>
+                                <a href="">
+                                    Веб-камеры
+                                <a>
                             </li>
-                            <li href="" alt="">
-                                Новости
+                            <li>
+                                <a href="">
+                                    Новости
+                                <a>
                             </li>
                         </ul>
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                         <p class="title">Основное</p>
                         <ul>
-                            <li href="" alt="">
-                                Ски-пассы
+                            <li>
+                                <a href="">
+                                    Ски-пассы
+                                <a>
                             </li>
-                            <li href="" alt="">
-                                Карта куротат
+                            <li>
+                                <a href="">
+                                    Карта куротат
+                                <a>
                             </li>
-                            <li href="" alt="">
-                                Веб-камеры
+                            <li>
+                                <a href="">
+                                    Веб-камеры
+                                <a>
                             </li>
-                            <li href="" alt="">
-                                Новости
+                            <li>
+                                <a href="">
+                                    Новости
+                                <a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                        <p class="title">Основное</p>
+                        <ul>
+                            <li>
+                                <a href="">
+                                    Ски-пассы
+                                <a>
+                            </li>
+                            <li>
+                                <a href="">
+                                    Карта куротат
+                                <a>
+                            </li>
+                            <li>
+                                <a href="">
+                                    Веб-камеры
+                                <a>
+                            </li>
+                            <li>
+                                <a href="">
+                                    Новости
+                                <a>
                             </li>
                         </ul>
                     </div>
@@ -74,34 +106,50 @@
                     <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                         <p class="title">Основное</p>
                         <ul>
-                            <li href="" alt="">
-                                Ски-пассы
+                            <li>
+                                <a href="">
+                                    Ски-пассы
+                                <a>
                             </li>
-                            <li href="" alt="">
-                                Карта куротат
+                            <li>
+                                <a href="">
+                                    Карта куротат
+                                <a>
                             </li>
-                            <li href="" alt="">
-                                Веб-камеры
+                            <li>
+                                <a href="">
+                                    Веб-камеры
+                                <a>
                             </li>
-                            <li href="" alt="">
-                                Новости
+                            <li>
+                                <a href="">
+                                    Новости
+                                <a>
                             </li>
                         </ul>
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                         <p class="title">Основное</p>
                         <ul>
-                            <li href="" alt="">
-                                Ски-пассы
+                            <li>
+                                <a href="">
+                                    Ски-пассы
+                                <a>
                             </li>
-                            <li href="" alt="">
-                                Карта куротат
+                            <li>
+                                <a href="">
+                                    Карта куротат
+                                <a>
                             </li>
-                            <li href="" alt="">
-                                Веб-камеры
+                            <li>
+                                <a href="">
+                                    Веб-камеры
+                                <a>
                             </li>
-                            <li href="" alt="">
-                                Новости
+                            <li>
+                                <a href="">
+                                    Новости
+                                <a>
                             </li>
                         </ul>
                     </div>
