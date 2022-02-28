@@ -1,3 +1,20 @@
+@font-face {
+    font-family: MontRegular;
+    src: local("MontRegular"),
+    url(/css/fonts/MontRegular.ttf);
+}
+
+body {
+    font-family: 'MontRegular';
+}
+
+
+.background-body {
+    background: url('../img/body.jpg') 100% 100% no-repeat;
+    background-size: auto;
+    background-size: cover;
+}
+
 .header-left {
     width: 7%;
     float: left;
