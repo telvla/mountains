@@ -10,9 +10,9 @@ $(document).ready(function() {
 
     $(".line-1").css('margin-top', (body_height_screen / 2) - 90);
 
-    $(".left-icon").css('margin-left', '3%');
+    $(".left-icon").css('margin-left', '2.5%');
     $(".left-icon-1").css('margin-top', (body_height_screen / 2) - 50);
     $(".left-icon-2").css('margin-top', (body_height_screen / 2) - 100);
-    $(".left-icon-3").css('margin-top', (body_height_screen / 2) - 150);
+    $(".left-icon-3").css('margin-top', (body_height_screen / 2) - 165);
 });
 

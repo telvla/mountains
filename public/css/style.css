@@ -8,7 +8,6 @@ body {
     font-family: 'MontRegular';
 }
 
-
 .background-body {
     background: url('../img/body.jpg') 100% 100% no-repeat;
     background-size: auto;
@@ -61,6 +60,7 @@ body {
 
 .head-menu {
     display: inline-block;
+    margin: 4px 0px 0px 0px;
 }
 
 .head-menu li {
@@ -75,6 +75,7 @@ body {
     color: #000;
     text-decoration: none;
     cursor: pointer;
+    font-size: 15px;
 }
 
 .first-screen-title {
