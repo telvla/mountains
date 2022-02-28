@@ -104,6 +104,10 @@ footer ul {
     list-style: none;
 }
 
+footer ul li a {
+    color: #fff;
+}
+
 footer .mar-top-title {
     margin-top: 50px;
 }
