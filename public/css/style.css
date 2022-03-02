@@ -327,6 +327,10 @@ footer .mar-top-title {
     padding-bottom: 150px;              
 }
 
+.mountaineering-pad-left {
+    padding: 0px 15px 0px 10%;
+}    
+
 .wr-mountaineering .title {
     font-size: 55px;
     font-weight: bold;

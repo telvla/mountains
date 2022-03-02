@@ -278,14 +278,14 @@
                 </div>
             </div>
             <div class="row wr-mountaineering">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 mountaineering-pad-left">
                     <p class="title">Альпинизм</p>
                     <p class="info">Задача организации, в особенности же рамки и место обучения кадров обеспечивает широкому кругу (специалистов) участие в формировании системы обучения кадров, соответствует насущным потребностям.</p>
                     <br ><br >
                     <botton>Посмотреть маршрут</botton>         
                 </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                    <img src="/img/mountaineering.png" width="100%" />
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 pad-0">
+                    <img src="/img/mountaineering.png" width="90%" />
                 </div>
             </div>
             <div class="container wr-teberdinsky-nature-reserve">
