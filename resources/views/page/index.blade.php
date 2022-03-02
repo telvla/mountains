@@ -209,11 +209,11 @@
                 </div>
             </div>
             <div class="row wr-routes">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                    <img src="/img/routes.png" width="70%" />
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 pad-0">
+                    <img src="/img/routes.png" width="80%" />
                 </div>            
                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                    <p class="title">Маршруты</p>
+                    <p class="title space-title">Маршруты</p>
                     <p class="info">Задача организации, в особенности же рамки и место обучения кадров обеспечивает широкому кругу (специалистов) участие в формировании системы обучения кадров, соответствует насущным потребностям.</p>
                     <botton>Выбор маршрута</botton>         
                     <ul>
@@ -239,14 +239,14 @@
                 </div>
             </div>
             <div class="row wr-trails">
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                    <p class="title">Трассы</p>
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 trails-pad-left">
+                    <p class="title space-title">Трассы</p>
                     <p class="info">Задача организации, в особенности же рамки и место обучения кадров обеспечивает широкому кругу (специалистов) участие в формировании системы обучения кадров, соответствует насущным потребностям.</p>
                     <br ><br >
                     <botton>Посмотреть трассы</botton>         
                 </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                    <img src="https://s.mediasole.ru/images/626/626573/1.jpg" width="100%" />
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 text-right pad-0">
+                    <img src="/img/trails.png" width="90%" />
                 </div>
             </div>
             <div class="container wr-tracking">
