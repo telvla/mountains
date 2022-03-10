@@ -186,8 +186,7 @@ footer .mar-top-title {
 }
 
 .wr-routes {
-    padding-top: 150px;
-    padding-bottom: 150px;              
+    padding: 150px 0px 150px 0px;          
 }
 
 .wr-routes .title {
