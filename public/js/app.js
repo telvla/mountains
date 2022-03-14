@@ -14,4 +14,3 @@ $(document).ready(function() {
     $(".left-icon-2").css('margin-top', (body_height_screen / 2) - 100);
     $(".left-icon-3").css('margin-top', (body_height_screen / 2) - 165);
 });
-

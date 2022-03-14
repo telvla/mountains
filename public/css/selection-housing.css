@@ -30,7 +30,7 @@ header .fa-user-circle {
     font-size: 27px;
     color: #444;
     float: left;
-    padding-right: 7px;
+    padding: 0px 7px 0px 0px;
     cursor: pointer;
 }
 
