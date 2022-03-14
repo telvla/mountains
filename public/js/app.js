@@ -7,7 +7,6 @@ $(document).ready(function() {
 
     $(".wr-first-screen-select").css('margin-top', (body_height_screen / 2) - 100);
 
-
     $(".line-1").css('margin-top', (body_height_screen / 2) - 90);
 
     $(".left-icon").css('margin-left', '2.5%');
