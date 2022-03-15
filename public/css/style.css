@@ -161,7 +161,7 @@ footer .mar-top-title {
 .wr-seasons ul {
     font-size: 18px;
     list-style: none;
-    margin-left: -40px;
+    margin: 0px 0px 0px -40px;
 }
 
 .wr-seasons ul li {
