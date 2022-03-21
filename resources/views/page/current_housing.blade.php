@@ -51,13 +51,6 @@
     </div>        
 </header>
 
-<style>
-    .left-slide {}
-    
-    .left-slide img {
-        margin: 0px 0px 20px 0px;
-    }
-</style>
     
     
 <div class="row space">
@@ -100,6 +93,12 @@
         </p>
         <br /><br />
         <style>
+            .left-slide {}
+            
+            .left-slide img {
+                margin: 0px 0px 20px 0px;
+            }
+
             .wr-reviews {
                 border-bottom: solid 2px #000;
                 padding: 15px 0px 25px 0px;
