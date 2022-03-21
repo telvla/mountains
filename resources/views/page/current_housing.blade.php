@@ -32,7 +32,7 @@
             </ul>
         </div>
         <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
-            <a>
+            <a href="">
                 <i class="fa fa-user-circle" aria-hidden="true"></i>
                 <div class="user">Екатерина Иванова</div>
             </a>    
@@ -50,9 +50,6 @@
         </div>    
     </div>        
 </header>
-
-    
-    
 <div class="row space">
     <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12 left-slide">
         <img src="https://tvoidvor.com/wp-content/uploads/image24-min-30.jpg" width="100%" />
@@ -73,7 +70,6 @@
         <botton>Забронировать</botton><botton>1</botton>
     </div>    
 </div>
-
 <div class="row space">
     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
         <h2>Общая информация</h2>
