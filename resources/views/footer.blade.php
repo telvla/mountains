@@ -162,7 +162,7 @@
                     <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                         <p>По вопросам рекламы, предложений и претензий</p>
                         <p><i class="fa fa-envelope-open-o" aria-hidden="true"></i> domain-life.ru</p>
-                        <p><i class="fa fa-phone" aria-hidden="true"></i> +7 888 123-23-23</p>
+                        <p><i class="fa fa-phone" aria-hidden="true"></i><a href="tel:88123205252" alt="Телефон"> +7 888 123-23-23</a></p>
                     </div>
                 </div>
             </div>
