@@ -155,12 +155,18 @@
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                         <p><a href="tel:88123205252" alt="Телефон"><b>+7 800 521-52-52</b></a></p>
-                        <p>Номер спасательных служб</p>
+                        <p>
+                            Номер спасательных служб
+                        </p>
                         <p><a href="tel:88123205252" alt="Телефон"><b>+7 800 521-52-52</b></a></p>
-                        <p>Номер скорой медицинской помощи</p>
+                        <p>
+                            Номер скорой медицинской помощи
+                        </p>
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
-                        <p>По вопросам рекламы, предложений и претензий</p>
+                        <p>
+                            По вопросам рекламы, предложений и претензий
+                        </p>
                         <p><i class="fa fa-envelope-open-o" aria-hidden="true"></i> domain-life.ru</p>
                         <p><i class="fa fa-phone" aria-hidden="true"></i><a href="tel:88123205252" alt="Телефон"> +7 888 123-23-23</a></p>
                     </div>
