@@ -139,7 +139,9 @@
                         </ul>
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
-                        <p class="title">Основное</p>
+                        <p class="title">
+                            Основное
+                        </p>
                         <ul>
                             <li>
                                 <a href="">
