@@ -100,9 +100,27 @@ class InitExampleTest extends TestCase
 }
 */
 
+/*
+Проверка метода на возвращение объекта или массива
 
-
-
+namespace Tests\Unit;
+use Illuminate\Foundation\Testing\RefreshDatabase;
+use Illuminate\Foundation\Testing\WithFaker;
+use Tests\TestCase;
+use App\Http\Controllers\AdminPanel\ListApplicationsController;
+class InitExampleTest extends TestCase
+{
+    public function testBasicTest()
+    {
+        $class = new ListApplicationsController(['renderPage']);
+        $result = $class->renderPage();
+        
+        $is_bool = (is_array($result)) ? true : false;
+        //$is_bool = (is_object($result)) ? true : false;
+        $this->assertTrue($is_bool);
+    }
+}
+*/
 
 
 
