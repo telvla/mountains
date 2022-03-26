@@ -11,3 +11,8 @@ Route::get('/selection-housing', function () {
 Route::get('/current-housing', function () {
     return view('page.current_housing');
 });
+
+Route::get('/test', function () {
+
+    return '11111';
+});
