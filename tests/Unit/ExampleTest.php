@@ -60,6 +60,29 @@ class ExampleTest extends TestCase
 }
 */
 
+/*
+Проверка метода renderPage на возращение значения true/false
+
+namespace Tests\Unit;
+use Illuminate\Foundation\Testing\RefreshDatabase;
+use Illuminate\Foundation\Testing\WithFaker;
+use Tests\TestCase;
+use App\Http\Controllers\AdminPanel\ListApplicationsController;
+class InitExampleTest extends TestCase
+{
+    public function testBasicTest()
+    {
+        //App\Http\Controllers\AdminPanel\ListApplicationsController     public function renderPage() { return false; }
+        $basket = new ListApplicationsController(['renderPage']);
+        $this->assertFalse($basket->renderPage()); // curent metod return false // assertTrue/assertFalse
+    }
+}
+*/
+
+
+
+
+
 
 
 
