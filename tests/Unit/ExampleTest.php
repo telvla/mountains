@@ -79,6 +79,41 @@ class InitExampleTest extends TestCase
 }
 */
 
+/*
+Проверка метода renderPage на возращение значения json
+//public function renderPage() { $test = ['provider1', 'first', 'second']; return $test; }
+    
+namespace Tests\Unit;
+use Illuminate\Foundation\Testing\RefreshDatabase;
+use Illuminate\Foundation\Testing\WithFaker;
+use Tests\TestCase;
+use App\Http\Controllers\AdminPanel\ListApplicationsController;
+class InitExampleTest extends TestCase
+{
+    public function testBasicTest()
+    {
+        $class = new ListApplicationsController(['renderPage']);
+        $result = $class->renderPage(); //можно передать параметры в метод
+        $test = ['provider1', 'first', 'second'];
+        $this->assertEquals($test, $result);
+    }
+}
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
