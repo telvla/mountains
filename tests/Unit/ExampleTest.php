@@ -99,7 +99,6 @@ class InitExampleTest extends TestCase
 
 /*
 Проверка метода на возвращение объекта или массива
-
 namespace Tests\Unit;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 use Illuminate\Foundation\Testing\WithFaker;
