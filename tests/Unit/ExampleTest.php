@@ -20,8 +20,6 @@ class ExampleTest extends TestCase
     }
 }
 
-
-
 /* 
 Проверка страницы на доступность
  
