@@ -80,7 +80,6 @@ class InitExampleTest extends TestCase
 /*
 Проверка метода renderPage на возращение значения json
 //public function renderPage() { $test = ['provider1', 'first', 'second']; return $test; }
-    
 namespace Tests\Unit;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 use Illuminate\Foundation\Testing\WithFaker;
