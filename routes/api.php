@@ -25,6 +25,7 @@ Route::group(['prefix' => 'api'], function () {
         Route::post('categories', 'AllCategoriesController@categoriesAll');
         Route::post('categories/{id}', 'AllCategoriesController@categoriesId')->where('id', '[0-9]+');
     });
+    
     Route::group(['prefix' => 'web'], function () {
     });
     Route::group(['prefix' => 'teltgram'], function () {
