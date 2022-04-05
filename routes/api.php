@@ -28,6 +28,7 @@ Route::group(['prefix' => 'api'], function () {
     
     Route::group(['prefix' => 'web'], function () {
     });
+    
     Route::group(['prefix' => 'teltgram'], function () {
     });
 });
