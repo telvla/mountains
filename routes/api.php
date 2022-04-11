@@ -13,7 +13,6 @@ Route::group(['prefix' => 'api'], function () {
         Route::post('post/{id}', 'AllPostController@postId')->where('id', '[0-9]+');
         Route::post('categories', 'AllCategoriesController@categoriesAll');
         Route::post('categories/{id}', 'AllCategoriesController@categoriesId')->where('id', '[0-9]+');
-        
     });
     
     Route::group(['prefix' => 'web'], function () {
