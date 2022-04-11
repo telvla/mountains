@@ -9,7 +9,6 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 
 Route::group(['prefix' => 'api'], function () {
     Route::group(['prefix' => 'mobile'], function () {
-
         Route::post('post', 'AllPostController@postAll');
         Route::post('post/{id}', 'AllPostController@postId')->where('id', '[0-9]+');
         Route::post('categories', 'AllCategoriesController@categoriesAll');
